@@ -39,6 +39,10 @@ public class Employee {
 		this.empAge = empAge;
 	}
 	
+	private void empName() {
+		System.out.println("Employee name is Ravi");
+		System.out.println("Work Carried by QA");
+	}
 	
 	
 	
