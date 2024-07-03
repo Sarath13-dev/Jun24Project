@@ -43,5 +43,14 @@ public class Employee {
 		System.out.println("Emp Id is 12345");
 		System.out.println("Work Done by Dev Branch Employee");
 	}
+
+	private void empName() {
+		System.out.println("Employee name is Ravi");
+		System.out.println("Work Carried by QA");
+	}
+	
+	
+
+	
 	
 }
