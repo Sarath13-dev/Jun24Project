@@ -39,7 +39,9 @@ public class Employee {
 		this.empAge = empAge;
 	}
 	
-	
-	
+	private void empId() {
+		System.out.println("Emp Id is 12345");
+		System.out.println("Work Done by Dev Branch Employee");
+	}
 	
 }
